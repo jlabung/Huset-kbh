@@ -1,0 +1,14 @@
+{
+box-sizing: border-box;
+
+}
+ul li {
+	float:left;
+	text-decoration: none;
+	text-align: center;
+	margin: 2rem;
+
+}
+li{
+	list-style: none;
+}
